@@ -1,4 +1,4 @@
-# winkel script om bootschappen te berekenen
+# Shoping program
 persoon = float(input("split the cost in: "))
 articles = []
 
